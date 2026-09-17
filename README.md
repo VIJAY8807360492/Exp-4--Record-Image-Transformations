@@ -83,7 +83,7 @@ import matplotlib.pyplot as plt
 
 Read the input image in color mode.
 ```
-image = cv2.imread("lion.png", cv2.IMREAD_COLOR)
+image = cv2.imread("image 4.jpg", cv2.IMREAD_COLOR)
 
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
